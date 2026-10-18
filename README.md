@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Muhammad Tabish 👋</h1>
-  <h3>DevOps & Cloud Engineer | Backend Developer</h3>
+  <h3>DevOps & Cloud Engineer | Full Stack Developer</h3>
   <p>Based in Pakistan 📍 | BSCS Graduate 🎓</p>
 </div>
 
@@ -35,10 +35,6 @@ An autonomous video generation pipeline using Python, FastAPI, and FFmpeg. It sc
 ### 💼 [AutoApply](https://github.com/AlphaTab435/AlphaTab-OpenSource/tree/main/AutoApply)
 **Automated AI Job Assistant**
 A personal AI job assistant designed to save hundreds of hours scrolling through LinkedIn. It automatically finds jobs, filters out irrelevant ones, and scores the remaining positions against your specific resume.
-
-### 🏦 [Titan Fintech Platform](https://github.com/AlphaTab435/titan-fintech-platform)
-**Enterprise-Grade Cloud Infrastructure**
-A production-grade Fintech infrastructure project built on AWS EKS utilizing Terraform and GitOps practices. Includes a Prometheus & Grafana observability stack configured via Helm.
 
 ### 🧠 [DocMind AI](https://github.com/AlphaTab435/doc-mind-the-neural-ai-brain)
 **Internal AI Document Assistant**
