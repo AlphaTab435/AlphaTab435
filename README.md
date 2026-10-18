@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Muhammad Tabish 👋</h1>
-  <h3>DevOps & Cloud Engineer | Full Stack Developer</h3>
+  <h3>DevOps & Cloud Engineer | Developer</h3>
   <p>Based in Pakistan 📍 | BSCS Graduate 🎓</p>
 </div>
 
