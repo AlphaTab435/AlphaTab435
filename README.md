@@ -11,15 +11,14 @@
 
 ---
 
-## 🛠️ Core Technical Profile
+## 🛠️ Tech Stack
 
-- **Cloud & AWS:** Lambda, API Gateway, AppSync, CloudFormation, CloudWatch, DynamoDB, S3, IAM, VPC, CodePipeline, CodeBuild, CloudFront
-- **CI/CD & Automation:** Jenkins, AWS CodePipeline, GitHub Actions, Python automation, release orchestration, deployment pipelines
-- **Backend & APIs:** Node.js, Python, Lambda-based services, REST APIs, data processing, monitoring workflows
-- **Infrastructure & IaC:** Terraform, CloudFormation, Docker, Kubernetes, Linux, Nginx
+- **Cloud & AWS:** Lambda, API Gateway, AppSync, CloudFormation, CloudWatch, DynamoDB, S3, IAM, VPC, CodePipeline, CodeBuild
+- **CI/CD & Automation:** Jenkins, GitHub Actions, Python automation, release pipelines
+- **Backend:** Node.js, Python, REST APIs, serverless services
+- **Infrastructure:** Terraform, Docker, Kubernetes, Linux, Nginx
 - **Databases & Search:** MongoDB, DynamoDB, OpenSearch, SQL
 - **Frontend Support:** Angular, React
-- **Tools:** Git, GitHub, Bitbucket, Jira, VS Code, Linux
 
 ## 🏆 Certifications
 - ☁️ **AWS Certified Cloud Practitioner**
@@ -60,12 +59,12 @@ A networking-focused Kubernetes project demonstrating pod-to-pod communication p
 
 ---
 
-## 📈 Career Snapshot
+## 📈 What I Care About
 
-- **Cloud & Backend Engineering:** Built AWS-based backend services and Lambda integrations for a commercial IoT access-control platform.
-- **Automation Impact:** Reduced monitoring workload by **75%** by automating CloudWatch-based error detection, backup checks, and alarm reporting.
-- **Security & Compliance:** Cut IAM review time by **90%** by automating permission auditing across AWS, Jira, and Bitbucket.
-- **CI/CD Delivery:** Designed parameterized Jenkins pipelines for multi-brand mobile releases across staging, QA, beta, and production.
-- **Zero-Downtime Ops:** Refactored an OpenSearch layer to support index aliasing and automated failover logic.
+- Cloud infrastructure and platform reliability
+- CI/CD pipelines and deployment automation
+- Backend systems and serverless architecture
+- Monitoring, security, and operational efficiency
+- Building real-world tools that solve practical problems
 
 ---
