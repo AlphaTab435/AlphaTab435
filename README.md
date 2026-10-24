@@ -1,12 +1,15 @@
 <div align="center">
   <h1>Hi there, I'm Muhammad Tabish 👋</h1>
-  <h3>DevOps & Backend Engineer | AWS | Jenkins | Node.js | Python</h3>
-  <p>Available immediately and open to cloud, backend, DevOps, and platform engineering opportunities.</p>
+  <h3>DevOps & Backend Engineer | Full-Stack Capable | AWS | Jenkins | Node.js | Python</h3>
   <p><a href="https://www.linkedin.com/in/muhammad-tabish"><strong>📫 Connect on LinkedIn</strong></a></p>
 </div>
 
 <p align="center">
   I build and automate cloud infrastructure, backend services, CI/CD pipelines, and practical software systems for real-world production environments.
+</p>
+
+<p align="center">
+  Available immediately and open to cloud, backend, DevOps, full-stack, and platform engineering opportunities.
 </p>
 
 ---
@@ -64,6 +67,7 @@ A networking-focused Kubernetes project demonstrating pod-to-pod communication p
 - Cloud infrastructure and platform reliability
 - CI/CD pipelines and deployment automation
 - Backend systems and serverless architecture
+- Full-stack delivery and frontend collaboration
 - Monitoring, security, and operational efficiency
 - Building real-world tools that solve practical problems
 
