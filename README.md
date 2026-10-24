@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Muhammad Tabish 👋</h1>
   <h3>DevOps & Backend Engineer | AWS | Jenkins | Node.js | Python</h3>
-  <p>Based in Pakistan 📍 | Open to relocation to Lahore 🚚</p>
+  <p>Available immediately and open to cloud, backend, DevOps, and platform engineering opportunities.</p>
+  <p><a href="https://www.linkedin.com/in/muhammad-tabish"><strong>📫 Connect on LinkedIn</strong></a></p>
 </div>
 
 <p align="center">
@@ -39,9 +40,6 @@ An AI document assistant project using a RAG-style approach for secure document 
 ### 🧾 [taxnavigator-ai](https://github.com/AlphaTab435/taxnavigator-ai)
 A TypeScript project focused on AI-assisted recommendation workflows and user guidance for a tax software use case.
 
-### 🏦 [titan-fintech-platform](https://github.com/AlphaTab435/titan-fintech-platform)
-A production-grade fintech infrastructure project centered on AWS EKS, Terraform, GitOps, and cloud deployment patterns.
-
 ### ☁️ [Lambda-Deployment](https://github.com/AlphaTab435/Lambda-Deployment)
 A serverless deployment-focused repository covering AWS Lambda and infrastructure delivery patterns.
 
@@ -60,9 +58,6 @@ A Kubernetes and microservices-oriented project covering container orchestration
 ### 🧩 [Kubernetes-Communication-Between-Pods](https://github.com/AlphaTab435/Kubernetes-Communication-Between-Pods)
 A networking-focused Kubernetes project demonstrating pod-to-pod communication patterns.
 
-### 🚀 [devops-day1-project](https://github.com/AlphaTab435/devops-day1-project)
-A DevOps project focused on backup automation and GitHub Actions CI workflow practices.
-
 ---
 
 ## 📈 Career Snapshot
@@ -74,8 +69,3 @@ A DevOps project focused on backup automation and GitHub Actions CI workflow pra
 - **Zero-Downtime Ops:** Refactored an OpenSearch layer to support index aliasing and automated failover logic.
 
 ---
-
-<div align="center">
-  <i>Available immediately and open to cloud, backend, DevOps, and platform engineering opportunities.</i><br><br>
-  📫 <a href="https://www.linkedin.com/in/muhammad-tabish"><strong>Connect on LinkedIn</strong></a>
-</div>
