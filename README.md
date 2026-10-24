@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  I’m a DevOps & Backend Engineer with 3 years of hands-on experience building AWS cloud infrastructure, backend services, and CI/CD automation for commercial platforms.
+  I’m a DevOps & Backend Engineer with 3 years of hands-on experience building cloud infrastructure, backend services, and CI/CD automation for commercial platforms.
 </p>
 
 ---
@@ -42,6 +42,10 @@ A TypeScript/Next.js project designed to simplify tax-related product discovery 
 ### 🌐 [AlphaTab-OpenSource](https://github.com/AlphaTab435/AlphaTab-OpenSource)
 **Automation & Developer Tooling**
 An open-source collection focused on content generation, automation workflows, and practical engineering tooling.
+
+### 🏦 [Titan Fintech Platform](https://github.com/AlphaTab435/titan-fintech-platform)
+**Production-Grade AWS Infrastructure**
+A cloud platform project focused on AWS EKS, Terraform, GitOps, and compliance-friendly deployment patterns.
 
 ---
 
