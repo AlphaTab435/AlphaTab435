@@ -51,11 +51,11 @@ A serverless deployment-focused repository covering AWS Lambda and infrastructur
 ### 🧪 [Build-your-own-Git](https://github.com/AlphaTab435/Build-your-own-Git)
 A systems-focused implementation exploring Git internals and version-control behavior.
 
-### ⚙️ [Build-your-own-Redis](https://github.com/AlphaTab435/Build-your-own-Redis)
-A practical implementation of in-memory data structure and server design concepts.
-
 ### 🖥️ [Build-your-own-Shell](https://github.com/AlphaTab435/Build-your-own-Shell)
 A shell implementation in C# focused on command execution and OS interaction patterns.
+
+### 🐳 [Communication-between-Docker-containers](https://github.com/AlphaTab435/Communication-between-Docker-containers)
+A Docker-focused project demonstrating communication patterns between containers in a real-world microservices setup.
 
 ### 🧭 [kubernetes-microservices-devops](https://github.com/AlphaTab435/kubernetes-microservices-devops)
 A Kubernetes and microservices-oriented project covering container orchestration and deployment practices.
